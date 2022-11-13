@@ -23,7 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-  <a href="https://www.linkedin.com/in/hari-nikesh-r-930bb723a/](https://www.linkedin.com/in/brindha-manickavasakan-1158a3191/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/brindha-manickavasakan-1158a3191/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Brindha-m" height="30" width="40" /></a>
       </a>
