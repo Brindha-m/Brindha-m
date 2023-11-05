@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://github.com/TanotiCoder/TanotiCoder/assets/81159555/5356e100-2b97-41ad-952f-01e7ca07608a" alt="profile-first-pr-dark" />
 </p>
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello 😉++This+is+Brindha!" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello!😉+This+is+Brindha" alt="Typing SVG" /></a></h1>
 
 <h3 align="center">Software Developer • Mobile App • Backend • Machine Learning</h3>
 
@@ -19,7 +19,7 @@
 
 - 📧 Reach me out **brindhamanickavasakan2@gmail.com**
 
-- 😉 Check out my apps on Playstore [Dood - Todos, Notes, Doodles - Apps on Google Play](https://play.google.com/store/apps/details?id=com.implementing.cozyspace)
+- 😉 Check out my **apps on Playstore** [Dood - Todos, Notes, Doodles - Apps on Google Play](https://play.google.com/store/apps/details?id=com.implementing.cozyspace)
 
 <br>
 
