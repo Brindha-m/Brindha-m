@@ -13,7 +13,7 @@
   
 - 🎯 My Tech stacks - **Java, Kotlin, Python, Spring Boot, and Machine Learning**
   
-- 👉🏻 Proficient in **AWS, GCP(Cuurently Getting my hands-on)**
+- 👉🏻 Proficient in **AWS, GCP(Currently Getting my hands-on)**
   
 - ⚡ Let's Connect and Build amazing apps together and spread happiness through technology!
 
