@@ -17,6 +17,8 @@
   
 - ⚡ Let's Connect and Build amazing apps together and spread happiness through technology!
 
+- ↗️ Portfolio - [Brindha's Portfolio](https://brindhamanick.carrd.co/)  
+
 - 📧 Reach me out **brindhamanickavasakan2@gmail.com**
 
 - 😉 Check out my **apps on Playstore** [Dood - Todos, Notes, Doodles - Apps on Google Play](https://play.google.com/store/apps/details?id=com.implementing.cozyspace)
