@@ -7,9 +7,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Brindha-m&label=Profile%20views&color=0e75b6&style=flat" alt="Brindha" /> </p>
 
 
-- 👩🏻‍💻 Passionate Android Developer **Kotlin | MVVM | Jetpack Compose | Firebase | Supabase | MongoDB | Postgres SQL**
+- 👩🏻‍💻 Passionate Junior Android Developer
   
-- 🎯 My Tech stacks - **Java, Kotlin, Python, Spring Boot, and Machine Learning**
+- 🎯 My Tech stacks : **Java| Kotlin | Python | MVVM | Jetpack Compose | Spring Boot | Machine Learning | Firebase | Supabase | MongoDB | Postgres SQL**
   
 - 👉🏻 Proficient in **AWS, GCP(Currently Getting my hands-on)**
   
@@ -28,11 +28,6 @@
 > Organize your notes effortlessly using folders for a tidy workspace with Dood. Express your creativity with a full-color palette and various brush options.
 <br>
 <h3>Statistical Data</h3>
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Brindha-m&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="Brindha-m" /></p>
-
 <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Brindha-m&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Brindha" /></p>
