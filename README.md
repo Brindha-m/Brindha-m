@@ -27,7 +27,7 @@
 
 > Organize your notes effortlessly using folders for a tidy workspace with Dood. Express your creativity with a full-color palette and various brush options.
 <br>
-<h3>Statistical Data</h3>
+<h3>💡 Light Bulb Moments! Commit-ted Journey with a Coffee☕</h3>
 <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Brindha-m&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Brindha" /></p>
