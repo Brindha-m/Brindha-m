@@ -1,6 +1,6 @@
 
 
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello!😉+This+is+Brindha" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello!+Git explorers😉+Brindha+Here." alt="Typing SVG" /></a></h1>
 
 <h3 align="center">Software Developer • Mobile App • Backend • Machine Learning</h3>
 
@@ -9,9 +9,9 @@
 
 - 👩🏻‍💻 Passionate Junior Android Developer
   
-- 🎯 My Tech stacks : **Java| Kotlin | Python | MVVM | Jetpack Compose | Spring Boot | Machine Learning | Firebase | Supabase | MongoDB | Postgres SQL**
+- 🎯 My Tech stacks : **Java| Kotlin | Python | AWS | MVVM | Jetpack Compose | Spring Boot | Machine Learning | Firebase | Supabase | MongoDB | Postgres SQL**
   
-- 👉🏻 Proficient in **AWS, GCP(Currently Getting my hands-on)**
+- 👉🏻 Currently Learning in **AWS, KMP**
   
 - ⚡ Let's Connect and Build amazing apps together and spread happiness through technology!
 
@@ -33,3 +33,12 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Brindha-m&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Brindha" /></p>
 
 
+### 🔝 My Top Contributed Repos..
+
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=brindha-m\&repo=AWS_Games\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=brindha-m\&repo=DoodSpace-Todos.Notes.Doodles\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=brindha-m\&repo=ScreenPlay\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=brindha-m\&repo=NightJars-ObjectDetectionInDark\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
+
+### Deep Quote💭🤔 is'nt it?
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?theme=catppuccin_mocha&border=true&type=horizontal&author=Charlie%20Chaplin&quote=Life%20may%20appear%20Tragedy%20in%20Close%20up,%20yet%20transforms%20into%20a%20Comedy%20in%20a%20Long%20Shot.)](https://github.com/piyushsuthar/github-readme-quotes)
