@@ -32,13 +32,15 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Brindha-m&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Brindha" /></p>
 
+<br>
 
-### 🔝 My Top Contributed Repos..
+<h3> 🔝 My Top Contributed Repos.. </h3>
 
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=brindha-m\&repo=AWS_Games\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=brindha-m\&repo=DoodSpace-Todos.Notes.Doodles\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=brindha-m\&repo=ScreenPlay\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=brindha-m\&repo=NightJars-ObjectDetectionInDark\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
 
-### Deep Quote💭🤔 is'nt it?
+<h3> 💭 Deep Quote🤔 is'nt it? </h3>
+
 [![readme Quotes](https://quotes-github-readme.vercel.app/api?theme=catppuccin_mocha&border=true&type=horizontal&author=Charlie%20Chaplin&quote=Life%20may%20appear%20Tragedy%20in%20Close%20up,%20yet%20transforms%20into%20a%20Comedy%20in%20a%20Long%20Shot.)](https://github.com/piyushsuthar/github-readme-quotes)
