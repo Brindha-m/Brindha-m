@@ -43,4 +43,4 @@
 
 <h3> 💭 Deep Quote🤔 is'nt it? </h3>
 
-[![readme Quotes](https://quotes-github-readme.vercel.app/api?theme=catppuccin_mocha&border=true&type=horizontal&author=Charlie%20Chaplin&quote=Life%20may%20appear%20Tragedy%20in%20Close%20up,%20yet%20transforms%20into%20a%20Comedy%20in%20a%20Long%20Shot.)](https://github.com/piyushsuthar/github-readme-quotes)
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?theme=catppuccin_mocha&border=true&type=horizontal&author=Charlie%20Chaplin&quote=Life%20may%20appear%20Tragedy%20in%20Close%20up,%20yet%20transforms%20into%20a%20Comedy%20in%20Long%20Shot.)](https://github.com/piyushsuthar/github-readme-quotes)
