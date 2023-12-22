@@ -10,10 +10,6 @@
 - 👩🏻‍💻 Passionate Junior Android Developer
   
 - 🎯 My Tech stacks : **Java| Kotlin | Python | AWS | MVVM | Jetpack Compose | Spring Boot | Machine Learning | Firebase | Supabase | MongoDB | Postgres SQL**
-  
-- 👉🏻 Currently Learning in **AWS, KMP**
-  
-- ⚡ Let's Connect and Build amazing apps together and spread happiness through technology!
 
 - ↗️ Portfolio - [Brindha's Portfolio](https://brindhamanick.carrd.co/)  
 
