@@ -1,6 +1,6 @@
 
 
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello!+Git explorers😉+Brindha+Here." alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Bindas+Code, +Begins+Here..💭" alt="Typing SVG" /></a></h1>
 
 <h3 align="center">Software Developer • Mobile App • Backend • Machine Learning</h3>
 
@@ -9,7 +9,7 @@
 
 - 👩🏻‍💻 Passionate Junior Android Developer
   
-- 🎯 My Tech stacks : **Java| Kotlin | Python | AWS | MVVM | Jetpack Compose | Spring Boot | Machine Learning | Firebase | Supabase | MongoDB | Postgres SQL**
+- 🎯 Tech stacks : **Java| Kotlin | Python | AWS | MVVM | Jetpack Compose | Spring Boot | Machine Learning | Firebase | Supabase | MongoDB | Postgres SQL**
 
 - ↗️ Portfolio - [Brindha's Portfolio](https://brindhamanick.carrd.co/)  
 
