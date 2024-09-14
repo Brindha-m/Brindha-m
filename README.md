@@ -19,9 +19,7 @@
 
 <br>
 
-> With Dood😎, you can effortlessly Manage tasks✔️, Craft notes📝, Bookmark🔖, Schedule events & maintain a Calendar, and Unleash your Artistic side on the doodle board🖌️.
-
-> Organize your notes effortlessly using folders for a tidy workspace with Dood. Express your creativity with a full-color palette and various brush options.
+> With Dood😎, you can effortlessly Manage tasks✔️, Craft notes📝, Bookmark🔖, Schedule events & maintain a Calendar, and Unleash your Artistic side on the doodle board🖌️. Organize your notes effortlessly using folders for a tidy workspace with Dood. Express your creativity with a full-color palette and various brush options.
 <br>
 <h3>💡 Light Bulb Moments! Commit-ted Journey with a Coffee☕</h3>
 <br>
