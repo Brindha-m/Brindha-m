@@ -1,13 +1,17 @@
 
 
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Bindas+Code, +Begins+Here..💭" alt="Typing SVG" /></a></h1>
+<h1 align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=F7F7F7&vCenter=true&width=512&height=50&lines=Bindas+Code%2C+Begins+Here..%F0%9F%92%AD)](https://git.io/typing-svg)
+</h1>
+
 
 <h3 align="center">Software Developer • Mobile App • Backend • Machine Learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Brindha-m&label=Profile%20views&color=0e75b6&style=flat" alt="Brindha" /> </p>
 
 
-- 👩🏻‍💻 Passionate Junior Android Developer
+- 👩🏻‍💻 Passionate Junior Android Developer cum DL Engineer 
   
 - 🎯 Tech stacks : **Java| Kotlin | Python | AWS | MVVM | Jetpack Compose | Spring Boot | Machine Learning | Firebase | Supabase | MongoDB | Postgres SQL**
 
@@ -15,11 +19,13 @@
 
 - 📧 Reach me out **brindhamanickavasakan2@gmail.com**
 
-- 😉 Check out my **apps on Playstore** [Dood - Todos, Notes, Doodles - Apps on Google Play](https://play.google.com/store/apps/details?id=com.implementing.cozyspace)
+- 😉 Check out my **apps on Playstore** [**Bindas Music** on Google Play](https://play.google.com/store/apps/details?id=com.tunes.bindasmusic)  and   [**Dood - Todos, Notes, Doodles** - Apps on Google Play](https://play.google.com/store/apps/details?id=com.implementing.cozyspace)
 
 <br>
 
-> With Dood😎, you can effortlessly Manage tasks✔️, Craft notes📝, Bookmark🔖, Schedule events & maintain a Calendar, and Unleash your Artistic side on the doodle board🖌️. Organize your notes effortlessly using folders for a tidy workspace with Dood. 
+> With **Bindas Music**, Listen to your favorite tracks, stored locally or streamed remotely. No limits. No barriers. Just sound, just soul.🤍
+
+> With **Dood😎**, you can effortlessly Manage tasks✔️, Craft notes📝, Bookmark🔖, Schedule events & maintain a Calendar, and Unleash your Artistic side on the doodle board🖌️. Organize your notes effortlessly using folders for a tidy workspace with Dood. 
 <br>
 <h3>💡 Light Bulb Moments! Commit-ted Journey with a Coffee☕</h3>
 <br>
