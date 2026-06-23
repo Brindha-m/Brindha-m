@@ -17,7 +17,7 @@
 
 <!-- - ↗️ Portfolio - [Brindha's Portfolio](https://brindhamanick.carrd.co/)  -->
 
-- 📧 Reach me out **brindhamanickavasakan2@gmail.com**
+<!-- -- 📧 Reach me out **brindhamanickavasakan2@gmail.com** -->
 
 - 😉 Check out my **apps on Playstore** [**Bindas Music** on Google Play](https://play.google.com/store/apps/details?id=com.tunes.bindasmusic)  and   [**Dood - Todos, Notes, Doodles** - Apps on Google Play](https://play.google.com/store/apps/details?id=com.implementing.cozyspace)
 
